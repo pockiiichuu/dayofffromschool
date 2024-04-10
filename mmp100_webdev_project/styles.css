@@ -1,0 +1,20 @@
+body{background-color: #FFE2D1;
+      font-family: "Georgia";
+margin: 2em;}
+h1{color: #BCBD8B;
+text-align: center;}
+h2{font-size: 19px;
+font-family: "Courier New";
+color: #845A6D;
+text-align: center;}
+p{color: #734B5E; 
+    font-family: "Arial";
+    width: 800px;
+margin: 0 auto;}
+li a {color: #52050A;}
+a{text-decoration: none}
+.credits{font-size: 0.5em;}
+p{text-align: center;}
+img{display: block;
+margin: 0 auto;
+margin-top: 2em;}
